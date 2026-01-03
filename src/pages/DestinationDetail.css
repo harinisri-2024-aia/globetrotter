@@ -1,0 +1,10 @@
+.destination-detail-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.destination-detail-page button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
